@@ -1,0 +1,30 @@
+.leftText{
+    text-align: left;
+}
+.centerText{
+    text-align: center;
+}
+.rightText{
+    text-align: right;
+}
+.border-black{
+    border: 1px solid black;
+}
+.width100{
+    width: 100%;
+}
+.width70{
+    width:70%;
+}
+.width50{
+    width:50%;
+}
+.width40{
+    width:40%;
+}
+.width35{
+    width:35%;
+}
+.marginAuto{
+    margin:auto;
+}

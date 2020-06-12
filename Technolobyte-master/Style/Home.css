@@ -1,0 +1,53 @@
+*{
+    font-family: "Sony Sketch EF";
+    background: black;
+    color: white;
+}
+@font-face{
+    font-family: "Sony Sketch EF";
+    src: url("../Content/Fonts/Sony_Sketch.ttf"),
+    url("css/fonts/Harabara.otf") format("opentype");
+}
+
+body{
+    font-family: "Sony Sketch EF" ;
+    /*background-color: #0c3974;*/
+    background-color: black;
+
+}
+.jumbotron{
+    background: black;
+}
+.bottom-btn-100{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+/* label{
+    color:white;
+}
+a{  
+    color:white;
+} */
+/* h1{
+    font-family: "Sony Sketch EF";
+    color:#131c19;
+} */
+/* p{
+    font-family: "Sony Sketch EF";
+    color: #131c19;
+} */
+/* footer{
+    font-family: "Sony Sketch EF" ;
+    color:white;
+}
+.technolobytenav{
+    background-color: black;
+}
+.footer{
+    background-color: black;
+    color:white;
+} */
+.mar5{
+    margin:5px;
+}

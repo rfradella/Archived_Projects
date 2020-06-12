@@ -1,0 +1,18 @@
+.test{
+  color:red;
+}
+
+#Calculator-Window{
+  border: 1px solid black;
+  width: 200px;
+  height: 300px;
+}
+
+.Calc-Button{
+  width: 33%;
+}
+
+#Calc-Input{
+  height: 50px;
+  width: 195px;
+}

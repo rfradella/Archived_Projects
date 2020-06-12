@@ -1,0 +1,11 @@
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\bin\Debug\CharacterEditor.exe.config
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\bin\Debug\CharacterEditor.exe
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\bin\Debug\CharacterEditor.pdb
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\obj\Debug\CharacterEditor.csprojResolveAssemblyReference.cache
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\obj\Debug\CharacterEditor.Properties.Resources.resources
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\obj\Debug\CharacterEditor.csproj.GenerateResource.Cache
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\obj\Debug\CharacterEditor.exe
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\obj\Debug\CharacterEditor.pdb
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\obj\Debug\CharacterEditor.frmStart.resources
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\obj\Debug\CharacterEditor.frmNewCharacter.resources
+C:\Users\Ray F\Desktop\Character Editor\CharacterEditor\obj\Debug\CharacterEditor.frmLoadCharacter.resources

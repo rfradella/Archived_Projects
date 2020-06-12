@@ -1,0 +1,23 @@
+body{
+	background:black;
+	color: white;
+}
+.aligncenter{
+	text-align: center;
+}
+.blackborder1{
+	border: 1px solid black;
+}
+.contact{
+	background:#844242;
+	color:white;
+}
+.projects{
+	background:grey;
+}
+.jumbotron{
+	background:wheat;
+}
+.navbar{
+	background:#cde2cd;
+}

@@ -1,0 +1,34 @@
+#Header-Container{
+    color:747704;
+}
+#name{
+    text-align:right;
+    float:right;
+    text-transform: uppercase;
+}
+#position{
+    text-align:right;
+    float:right;
+    text-transform: uppercase;
+}
+
+.row_title{
+    color:#BCBBBB;
+    padding-left:20px;
+}
+.cta{
+    text-transform: uppercase;
+    text-align: center;
+    color:747704;
+}
+.link{
+    color:#BCBBBB;
+    text-align: center;
+}
+.ctas{
+    width:100%;
+    height: 350px;
+}
+hr{
+    border: 1px #BCBBBB solid;
+}

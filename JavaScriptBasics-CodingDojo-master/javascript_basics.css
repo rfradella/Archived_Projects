@@ -1,0 +1,51 @@
+html{
+	background:#123459;
+} 
+
+/*IDs*/
+#header {
+	background:#123459;
+}
+
+#title{	
+	color:#bfd6e3;
+	background:#d62738;
+	border-radius:15px ;
+	font-family:"Casad Serial";
+}
+#bodyTitle{
+	color:#bfd6e3;
+	font-family:"Casad Serial";
+}
+#list{
+	background:#087f8a;
+	color:#30dae3;
+	font-size:17px;
+	border-radius:15px ;
+	text-decoration:underline;
+}
+
+#body_info{
+	background:#0b171f;
+	color:white;
+	border-radius:15px ;
+}
+
+#footer{
+	background:#5b6570;
+	color:white;
+	border-radius:10px ;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+h1{
+	font-family:"Casad Serial";
+}
+/*Classes*/
+.link{
+	color:#30dae3;
+}
+
+.example{
+	color:#6d54ff;
+}
